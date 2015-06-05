@@ -66,4 +66,4 @@ function setid()
 	self.close();
 }
 
-</script>
+</script> <!-- /////////////// -->
