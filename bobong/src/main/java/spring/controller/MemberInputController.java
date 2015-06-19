@@ -35,7 +35,7 @@ public class MemberInputController {
 
 	@RequestMapping(value = "join/input.do")
 	public String memberInput(@ModelAttribute("join") UserInfo useri) {
-		return "join/joinForm";
+		return "/join/joinForm";
 	}
 
 	
